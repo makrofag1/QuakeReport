@@ -2,7 +2,7 @@
 
 QuakeReport app was created basing on Udacity Android Tutorial in order to learn basics Java and Android.
 
-App shows the list of ten last the most powerful earthquakes
+App shows the list of ten last the most powerful earthquakes. If you press a choosen earthquake, you will be redirect to USGS page for more detailed informations.
 
 App screen
 
